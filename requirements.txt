@@ -1,0 +1,4 @@
+torch
+torchvision
+easydict
+backpack-for-pytorch
